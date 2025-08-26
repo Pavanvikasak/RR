@@ -1,0 +1,16 @@
+PROJECT_ID=rhythm-rider
+MESSAGING_SENDER_ID=560669506100
+DATABASE_URL=https://rhythm-rider-default-rtdb.asia-southeast1.firebasedatabase.app
+STORAGE_BUCKET=rhythm-rider.appspot.com
+
+WEB_API_KEY=AIzaSyD9DIGdeQ8neSe9YqO07CdBy2EHPRPlPlU
+WEB_APP_ID=1:560669506100:web:70dba56a6da9ac2cf9e861
+WEB_AUTH_DOMAIN=rhythm-rider.firebaseapp.com
+WEB_MEASUREMENT_ID=G-RQ2JWTW845
+
+ANDROID_API_KEY=AIzaSyCpgbwb68aURpfMzn7m0d5uttxtg_LDhPA
+ANDROID_APP_ID=1:560669506100:android:1119b80e745a9272f9e861
+
+IOS_API_KEY=AIzaSyC6ryc75V7BBn36MnwydiZZfSN7pQCMu-Y
+IOS_APP_ID=1:560669506100:ios:0aa6112eb2b78273f9e861
+IOS_BUNDLE_ID=com.example.rhythmrider

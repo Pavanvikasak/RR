@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "da48935d40ecd7a27b65c912d0f1f7d1",
-"assets/AssetManifest.bin.json": "b814e73eea678c92a13325dfb4f4317b",
-"assets/AssetManifest.json": "a639a3843ab3e295c4c889363ce070df",
+const RESOURCES = {"assets/AssetManifest.bin": "780de0e529adb336721e6dcd028b4465",
+"assets/AssetManifest.bin.json": "6216b8e116ab75561a10835b738c6561",
+"assets/AssetManifest.json": "1ba22b9e50c83fd00a03bf837b0a53ec",
 "assets/assets/fonts/AmadeusRegular-VGd0V.ttf": "16657a5cef56a157090de25dbb266524",
 "assets/assets/fonts/Tchaikovsky-ax8DK.ttf": "fbb0042ae4d359402fd9ac2b6a878f26",
 "assets/assets/icons/Deathly%2520Hallows.png": "40d69cf33c07ea1d24fa8e5e068328d3",
@@ -20,6 +20,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "da48935d40ecd7a27b65c912d0f1f7d1
 "assets/assets/images/img.png": "2f8be784a087ee3019f16aade081de62",
 "assets/assets/images/logo.png": "e9c58535bd8124739629659c53486d94",
 "assets/assets/images/logo1.png": "9d4a5e36b0560333c118a42dfa6ab1a7",
+"assets/dotenv": "6a49f1186d702f619fc753c80890899a",
 "assets/FontManifest.json": "846c8fda56f6ceac192aa94bce4180ed",
 "assets/fonts/MaterialIcons-Regular.otf": "1b22914db25698f430173a4624717abf",
 "assets/NOTICES": "f7ed949cb953566cd08f305d431c7096",
@@ -48,7 +49,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "da48935d40ecd7a27b65c912d0f1f7d1
 "canvaskit/skwasm_heavy.wasm": "8034ad26ba2485dab2fd49bdd786837b",
 "favicon.png": "b6b6acfd5ee4c9875b3e51794ff9c85c",
 "flutter.js": "888483df48293866f9f41d3d9274a779",
-"flutter_bootstrap.js": "1d6641a79c84211d320c0121dcf0e309",
+"flutter_bootstrap.js": "31faff87b8a72fc16c9bebf350df385e",
 "icons/Icon-192.png": "8d7b8a60cfc672c2e7fb9ddd66856081",
 "icons/Icon-512.png": "49bd94c5e072eab435bfcbab2a1d50d7",
 "icons/Icon-maskable-192.png": "8d7b8a60cfc672c2e7fb9ddd66856081",
